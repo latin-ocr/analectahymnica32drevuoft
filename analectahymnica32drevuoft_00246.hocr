@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./analectahymnica32drevuoft_00246.png"; bbox 0 0 1651 2700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 547 1361 1222 1404">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 547 1361 1222 1404">
+     <span class='ocr_line' id='line_1_1' title="bbox 547 1361 1222 1404; baseline 0.018 -12"><span class='ocrx_word' id='word_1_1' title='bbox 547 1361 612 1394; x_wconf 62' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 632 1364 806 1398; x_wconf 71' lang='lat' dir='ltr'>mSTzTusfi</span> <span class='ocrx_word' id='word_1_3' title='bbox 827 1367 870 1398; x_wconf 73' lang='lat' dir='ltr'>Of</span> <span class='ocrx_word' id='word_1_4' title='bbox 891 1369 1012 1404; x_wconf 56' lang='grc' dir='ltr'>Μὶιρικυ,</span> <span class='ocrx_word' id='word_1_5' title='bbox 1027 1380 1078 1404; x_wconf 79' lang='lat' dir='ltr'>r&#39;r...</span> <span class='ocrx_word' id='word_1_6' title='bbox 1105 1374 1222 1404; x_wconf 49' lang='lat' dir='ltr'>‚uuist-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 619 1424 1173 1520">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 619 1424 1173 1520">
+     <span class='ocr_line' id='line_1_2' title="bbox 619 1424 1173 1463; baseline 0.02 -10"><span class='ocrx_word' id='word_1_7' title='bbox 619 1424 666 1453; x_wconf 76' lang='lat'>59</span> <span class='ocrx_word' id='word_1_8' title='bbox 684 1426 844 1459; x_wconf 81' lang='lat' dir='ltr'><strong>QUEEN‘S</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 868 1429 959 1461; x_wconf 61' lang='grc' dir='ltr'>ΡΑΚἯ</span> <span class='ocrx_word' id='word_1_10' title='bbox 981 1434 1173 1463; x_wconf 55' lang='grc' dir='ltr'>ΟκΕψῦΕΝΤ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 673 1479 1133 1520; baseline 0.015 -10"><span class='ocrx_word' id='word_1_11' title='bbox 673 1479 842 1512; x_wconf 67' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_12' title='bbox 862 1495 897 1504; x_wconf 79' lang='lat'>·-</span> <span class='ocrx_word' id='word_1_13' title='bbox 915 1484 948 1520; x_wconf 83' lang='lat'>5,</span> <span class='ocrx_word' id='word_1_14' title='bbox 990 1485 1060 1516; x_wconf 71' lang='grc' dir='ltr'>8Αὴ</span> <span class='ocrx_word' id='word_1_15' title='bbox 1069 1487 1133 1517; x_wconf 56' lang='grc' dir='ltr'>ηιΒΑ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 778 1578 1039 1626">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 778 1578 1039 1626">
+     <span class='ocr_line' id='line_1_4' title="bbox 778 1578 1039 1626; baseline 0.019 -12"><span class='ocrx_word' id='word_1_16' title='bbox 778 1578 1039 1626; x_wconf 65' lang='lat'>10312,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1651 2692">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1651 2692">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1651 2692; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1651 2692; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
